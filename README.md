@@ -16,4 +16,4 @@ Probably not because this isn't something that will need you to be selecting thi
 ## Images
 ![Part 1](https://i.imgur.com/PdIlTUo.jpg)
 ![Part 2](https://i.imgur.com/4lIN4Uo.jpg)
-![Part 3](https://i.imgur.com/DowuhLM.jpg)
+![Part 3](https://i.imgur.com/LWQhxA9.jpg)
