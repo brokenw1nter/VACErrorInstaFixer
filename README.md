@@ -1,9 +1,9 @@
-# VAC Error Auto Fixer
+# VAC Error Insta Fixer
 A very simple batch file which helps fix the Valve Anti-Cheat error message, "Disconnected by VAC: You cannot play on secured servers". Which can be caused by multiple things such as an anti-virus/malware software, corrupted files, using software that may modify the game files, and so much more. At times it could even be a bug within the game's update.
 ## Important Note
 The current code is setup to work if Steam is installed in this directory - "C:\Program Files (x86)\Steam". If it is installed else where, you will have to edit the code yourself or request me to make one for you with your own directory.
 ## Download Now!
-### [VAC Error Auto Fixer v2.0.4.0](https://github.com/TimDaHacka/VACErrorAutoFixer/raw/master/VAC%20Error%20Auto%20Fixer.exe)
+### [VAC Error Insta Fixer v2.0.4.0]()
 ## What Does This Do Exactly?
 Well to fix this error message you usually would have to either restart your computer, repair the Steam service, restore boot settings to default, and/or repair system files, according to Steam Support. Therefore I created this script to do just that! Well besides the reboot, restore boot settings, and repair system files. As those aren't really needed and mainly for last resort.
 First thing this script does is kill all Steam processes that are currently running.
