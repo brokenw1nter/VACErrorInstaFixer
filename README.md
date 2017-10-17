@@ -16,6 +16,6 @@ I recommend you use the executable file as this script requires the use of Admin
 ## Will You Ever Make a GUI?
 Probably not because this isn't something that will need you to be selecting things and if it did then it would cancel out the whole point of being a simple one click and finish script.
 ## Images
-![Part 1](https://i.imgur.com/PdIlTUo.jpg)
-![Part 2](https://i.imgur.com/4lIN4Uo.jpg)
-![Part 3](https://i.imgur.com/LWQhxA9.jpg)
+![Part 1](https://i.imgur.com/MZ5EbFU.jpg)
+![Part 2](https://i.imgur.com/ex26eL4.jpg)
+![Part 3](https://i.imgur.com/C92HBsm.jpg)
