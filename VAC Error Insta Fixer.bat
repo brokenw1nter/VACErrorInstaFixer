@@ -1,5 +1,5 @@
 @echo off
-title VAC Error Auto Fixer - Written by TimDaHacka
+title VAC Error Insta Fixer - Written by TimDaHacka
 echo What's that? Another VAC? Well let's fix that! x3
 pause
 
