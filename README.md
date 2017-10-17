@@ -1,4 +1,5 @@
 # VACErrorAutoFixer
+A very simple batch file which helps fix the Valve Anti-Cheat error message, "Disconnected by VAC: You cannot play on secured servers". Which can be caused by multiple things such as an anti-virus/malware software, corrupted files, using software that may modify the game files, and so much more. At times it could even be a bug within the game's update.
 # What Does This Do Exactly?
 Well to fix this error message you usually would have to either restart your computer, repair the Steam service, restore boot settings to default, and/or repair system files, according to Steam Support. Therefore I created this script to do just that! Well besides the reboot, restore boot settings, and repair system files. As those aren't really needed and mainly for last resort.
 First thing this script does is kill all Steam processes that are currently running.
