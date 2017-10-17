@@ -1,4 +1,4 @@
-# VACErrorAutoFixer
+# VAC Error Auto Fixer
 A very simple batch file which helps fix the Valve Anti-Cheat error message, "Disconnected by VAC: You cannot play on secured servers". Which can be caused by multiple things such as an anti-virus/malware software, corrupted files, using software that may modify the game files, and so much more. At times it could even be a bug within the game's update.
 ## Download Now!
 ### [VAC Error Auto Fixer v2.0.4.0](https://github.com/TimDaHacka/VACErrorAutoFixer/raw/master/VAC%20Error%20Auto%20Fixer.exe)
