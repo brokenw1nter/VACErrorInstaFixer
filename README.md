@@ -3,7 +3,7 @@ A very simple batch file which helps fix the Valve Anti-Cheat error message, "Di
 ## Important Note
 The current code is setup to work if Steam is installed in this directory - "C:\Program Files (x86)\Steam". If it is installed else where, you will have to edit the code yourself or request me to make one for you with your own directory.
 ## Download Now!
-### [VAC Error Insta Fixer v2.0.4.0](https://github.com/TimDaHacka/VACErrorInstaFixer/raw/master/VAC%20Error%20Insta%20Fixer.exe)
+### [VAC Error Insta Fixer v2.0.4.0](https://github.com/brokenw1nter/VACErrorInstaFixer/raw/master/VAC%20Error%20Insta%20Fixer.exe)
 ## What Does This Do Exactly?
 Well to fix this error message you usually would have to either restart your computer, repair the Steam service, restore boot settings to default, and/or repair system files, according to Steam Support. Therefore I created this script to do just that! Well besides the reboot, restore boot settings, and repair system files. As those aren't really needed and mainly for last resort.
 First thing this script does is kill all Steam processes that are currently running.
@@ -16,6 +16,6 @@ I recommend you use the executable file as this script requires the use of Admin
 ## Will You Ever Make a GUI?
 Probably not because this isn't something that will need you to be selecting things and if it did then it would cancel out the whole point of being a simple one click and finish script.
 ## Images
-![Part 1](https://i.imgur.com/MZ5EbFU.jpg)
-![Part 2](https://i.imgur.com/ex26eL4.jpg)
-![Part 3](https://i.imgur.com/C92HBsm.jpg)
+![Part 1](https://i.imgur.com/4aYyL7X.png)
+![Part 2](https://i.imgur.com/bYJw93O.png)
+![Part 3](https://i.imgur.com/hpIEN1a.png)
